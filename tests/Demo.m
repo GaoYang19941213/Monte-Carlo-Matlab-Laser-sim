@@ -4,7 +4,7 @@
 %surface and escape the boundaries
 
 %add to path the src folder using the file explorer address
-addpath('C:\Users\kktar\Google Drive\Phd\MATLAB\Monte_Carlo_Laser\src');
+%addpath('C:\Users\kktar\Google Drive\Phd\MATLAB\Monte_Carlo_Laser\src');
 
 % [PAP Tw] = photonpath(method,N,r,cf,t_type,spotsize,l_type)
 %
